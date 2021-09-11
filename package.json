@@ -1,0 +1,26 @@
+{
+  "name": "serverless-project",
+  "version": "1.0.0",
+  "description": "Learn how to use serverless functions in less than 30 minutes!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reidk361/serverless-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reidk361/serverless-project/issues"
+  },
+  "homepage": "https://github.com/reidk361/serverless-project#readme",
+  "dependencies": {
+    "netlify-cli": "^2.37.0"
+  },
+  "devDependencies": {
+    "node-fetch": "^3.0.0"
+  }
+}
