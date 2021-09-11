@@ -19,8 +19,5 @@
   "homepage": "https://github.com/reidk361/serverless-project#readme",
   "dependencies": {
     "netlify-cli": "^2.37.0"
-  },
-  "devDependencies": {
-    "node-fetch": "^3.0.0"
   }
 }
